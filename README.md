@@ -6,6 +6,6 @@
 
 This project aims to predict whether a breast cancer tumor is malignant or benign using a logistic regression model. The dataset used for this project is the [Breast Cancer Wisconsin (Original) ](https://archive.ics.uci.edu/dataset/15/breast+cancer+wisconsin+original "Breast Cancer Wisconsin (Original) ") Data Set. This is an academic exercise.
 
-##License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
