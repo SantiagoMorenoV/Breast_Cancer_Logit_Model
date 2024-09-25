@@ -9,3 +9,9 @@ This project aims to predict whether a breast cancer tumor is malignant or benig
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## References
+
+Wolberg, W. (1990). *Breast Cancer Wisconsin (Original) [Dataset]*. UCI Machine Learning Repository. https://doi.org/10.24432/C5HP4Z
+
+**Note:** the dataset is also available in [UC Irvine Machine Learning Repository - Breast Cancer Wisconsin (Original)](https://archive.ics.uci.edu/dataset/15/breast+cancer+wisconsin+original "UC Irvine Machine Learning Repository - Breast Cancer Wisconsin (Original)").
