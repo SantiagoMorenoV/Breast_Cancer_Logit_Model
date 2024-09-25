@@ -6,7 +6,9 @@
 
 This project aims to predict whether a breast cancer tumor is malignant or benign using a logistic regression model. The dataset used for this project is the [Breast Cancer Wisconsin (Original) ](https://archive.ics.uci.edu/dataset/15/breast+cancer+wisconsin+original "Breast Cancer Wisconsin (Original) ") Data Set. This is an academic exercise.
 
-## Logit Model
+### Logit Model
+
+The logistic model can be accessed online via with Binder in:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SantiagoMorenoV/Breast_Cancer_Logit_Model/master?labpath=Breast_Cancer_Logit_Project.ipynb)
 
