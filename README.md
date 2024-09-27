@@ -25,3 +25,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## References
 
 Wolberg, W. (1990). *Breast Cancer Wisconsin (Original) [Dataset]*. UCI Machine Learning Repository. https://doi.org/10.24432/C5HP4Z
+
+#### Annex
+
+I am new to working with [!Dash](https://dash.plotly.com/), but here are some of the results.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SantiagoMorenoV/Breast_Cancer_Logit_Model/master?labpath=Dash%2FDash_Project.ipynb)
