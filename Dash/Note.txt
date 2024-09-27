@@ -1,0 +1,4 @@
+The file in this directory is a Dashboar with some of the relevant results from the model. 
+
+As it is created with Dash, and I still do not know what to configure to have the resulting dashboard
+published in an external site it is necessary to rerun the file from the Binder launcher to diplay it. 
