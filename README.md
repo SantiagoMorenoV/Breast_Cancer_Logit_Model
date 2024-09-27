@@ -12,7 +12,9 @@ The logistic model can be accessed online via Binder at:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SantiagoMorenoV/Breast_Cancer_Logit_Model/master?labpath=Breast_Cancer_Logit_Project.ipynb)
 
-### Statistical Hypothesis Testing
+## Chi-square Testing
+
+Chi-square independence test can be accessed onlin via Binder at:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SantiagoMorenoV/Breast_Cancer_Logit_Model/master?labpath=Breast_Cancer_Statisical+Testing_Project.ipynb)
 
