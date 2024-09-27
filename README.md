@@ -12,7 +12,7 @@ The logistic model can be accessed online via Binder at:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SantiagoMorenoV/Breast_Cancer_Logit_Model/master?labpath=Breast_Cancer_Logit_Project.ipynb)
 
-## Statistical Hypothesis Testing
+### Statistical Hypothesis Testing
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SantiagoMorenoV/Breast_Cancer_Logit_Model/master?labpath=Breast_Cancer_Statisical+Testing_Project.ipynb)
 
