@@ -87,6 +87,7 @@ roc_auc = np.round(auc(fpr, tpr), decimals=6) * 100
 """## Dash App"""
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+server = app.server
 
 app.layout = html.Div([
     dbc.Container([
